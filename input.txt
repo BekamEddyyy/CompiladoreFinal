@@ -1,0 +1,14 @@
+int a = 100
+int b1 = 8
+float a1 = 10.3434323
+float ga = 10.90
+
+If (a>10){
+  int b2 = 10 + b1
+  int c = 10 
+  int x = 10
+  float yx = 8.9999
+} Else{
+  int k = 10
+  int s = 12
+}
